@@ -1,14 +1,14 @@
 # Compiled source #
 ###################
-*.com
-*.class
+.com
+.class
 *.dll
 *.exe
 *.o
 *.so
-*.yml
-*.history
-*.txt
+.yml
+.history
+.txt
 
 # Packages #
 ############

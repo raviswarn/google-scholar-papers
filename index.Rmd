@@ -1,6 +1,6 @@
 ---
 title: "Getting google scholar informations with R"
-author: "by [Swarna Ravi](https://github.com/swarnaravi/) - `r format(Sys.time(), '%d %B %Y')`"
+author: "by [Swarnaravi](https://github.com/swarnaravi/) - `r format(Sys.time(), '%d %B %Y')`"
 output:
   epuRate::epurate:
     toc: FALSE
@@ -10,7 +10,6 @@ output:
 <br><br>
 
 > This documents provides a few line of codes to retrieve information from the google scholar API.
-
 
 
 # Load libraries
